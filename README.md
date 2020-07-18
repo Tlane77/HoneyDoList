@@ -1,6 +1,29 @@
+@@  This is a simple To Do Application in react. This is a fun project to do for beg
+
+From Terminal in Workspace folder run the following: * ($) is just place holder don't copy.
+$ npx create-react-app honeydolist
+cd honeydolist
+npm start
+from master or branch: $ code . 
+this will open VS CODE(must have installed)
+## Commands used to install Font awesome:
+
+$ npm i --save @fortawesome/fontawesome-svg-core
+
+$ npm i --save @fortawesome/free-solid-svg-icons
+
+$ npm i --save @fortawesome/react-fontawesome
+
+## Commands used to publish react files in github:
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+
+
+
 
 In the project directory, you can run:
 
