@@ -14,6 +14,8 @@ $ npm i --save @fortawesome/free-solid-svg-icons
 
 $ npm i --save @fortawesome/react-fontawesome
 
+$ npm i react-flip-move
+
 ## Commands used to publish react files in github:
 
 
